@@ -27,7 +27,7 @@ BeautifulSoup4
 Requests
 Installation
 # Clone the repository
-git clone https://github.com/yourusername/web-scraper-pro.git
+git clone https://github.com/azeddine0/web-scraper.git
 cd web-scraper-pro
 
 # Install dependencies
