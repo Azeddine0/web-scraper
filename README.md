@@ -18,8 +18,6 @@ Custom ThemeSwitch widget for theme toggling
 Persistent history using JSON storage
 Screenshots
 
-[Add screenshots here]
-
 Requirements
 Python 3.6+
 PyQt5
@@ -43,10 +41,5 @@ Enter a CSS selector (e.g., "div.content", "h1", "a.link")
 Select extraction options (Text, Links, Images, HTML)
 Click "Extract" to get the content
 Save results or clear for a new search
-License
-
-[Your chosen license]
-
-Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
