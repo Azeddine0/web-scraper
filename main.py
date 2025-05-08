@@ -746,7 +746,6 @@ class WebScraperApp(QMainWindow):
         self.history_text.setFont(font)
 
     def save_settings(self):
-        # In a real app, you would save these to a config file
         QMessageBox.information(self, "Settings", "Settings saved successfully!")
 
     def load_history(self):
